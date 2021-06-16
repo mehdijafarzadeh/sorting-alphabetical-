@@ -1,10 +1,14 @@
 ## Moby Dick Challenge
-Count the number of words in the full text of Moby Dick!
-How many times does the word whale appear?
-What are the top ten most used words?
-Save the dictionary of word frequencies as a json file
-Bonus: Create a line plot of the ordered word frequencies.
-Clean the text, store each unique word as a key in a dictionary and the corresponding word frequency as its value. The resulting data structure should look like this:
+
+- Count the number of words in the full text of Moby Dick!
+- How many times does the word whale appear?
+- What are the top ten most used words?
+- Save the dictionary of word frequencies as a json file
+- Bonus: Create a line plot of the ordered word frequencies.
+- Clean the text, store each unique word as a key in a dictionary and the corresponding word frequency as its value. 
+
+The resulting data structure should look like this:
+    
     '''
     {
         'the': 827,
